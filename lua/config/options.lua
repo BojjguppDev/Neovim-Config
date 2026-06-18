@@ -6,4 +6,4 @@ vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 
 -- Font
-vim.opt.guifont="Courier New:h14:b"
+vim.opt.guifont="JetBrainsMono Nerd Font:h16:b"
